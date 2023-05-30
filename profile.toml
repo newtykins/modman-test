@@ -1,0 +1,8 @@
+name = "luminary"
+author = "newt"
+version = "1.0.0"
+summary = "hello"
+
+[versions]
+minecraft = "1.19.4"
+fabric = "0.14.21"
