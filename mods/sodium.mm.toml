@@ -1,6 +1,6 @@
 name = "Sodium"
 filename = "sodium-fabric-mc1.19.4-0.4.10+build.24.jar"
-version = "mc1.19.4-0.4.10"
+version = "mc1.19.4-0.4.9"
 side = "client"
 
 [download]
